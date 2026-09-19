@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Ther i,am osman
 
 <!--
 **osman-75-bot/osman-75-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
