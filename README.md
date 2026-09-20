@@ -1,242 +1,214 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>
+  👋 Hello, I'm Osman Abubakr!
+</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 📫 Like to meet me?
+<p>
+  <em>
+    Backend Developer | Python & Django Developer
+  </em>
+</p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<p>
+  I'm a Backend Developer focused on building reliable, scalable and maintainable web applications using Python and Django.
+  I enjoy solving problems, designing APIs, working with databases, and turning ideas into functional backend systems.
+</p>
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p>
+  <a href="https://github.com/osman-75-bot">
+    <img src="https://img.shields.io/github/followers/osman-75-bot?label=Follow&style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/osman-abubakr-16297b2a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Osman%20Abubakr-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://osman-abubakr-pro.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-46a2f1?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C452%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2042%20mins-blue?style=flat)
+### 👨‍💻 About Me
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue?style=flat)
+```python
+osman = {
+    "name": "Osman Abubakr",
+    "role": "Backend Developer",
+    "education": "Bachelor of Computer Science",
+    "university": "Sudan Open University",
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.57%20million%20lines%20of%20code-blue?style=flat)
+    "focus": [
+        "Backend Development",
+        "Web Applications",
+        "REST APIs",
+        "Database Design",
+        "Problem Solving"
+    ],
 
-**🐱 My GitHub Data** 
+    "languages": [
+        "Python",
+        "HTML",
+        "CSS"
+    ],
 
-> 📦 394.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,675 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
+    "backend": [
+        "Django",
+        "Django REST Framework",
+        "Flask",
+        "REST APIs"
+    ],
 
-```text
-🌞 Morning                10549 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌆 Daytime                14983 commits       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌃 Evening                19570 commits       █████████░░░░░░░░░░░░░░░░   37.36 % 
-🌙 Night                  7277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+    "database": [
+        "SQL",
+        "PostgreSQL"
+    ],
 
-```text
-Monday                   9285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Tuesday                  10725 commits       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Wednesday                7192 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 5714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   4499 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Saturday                 7444 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Sunday                   7520 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-```
+    "tools": [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
 
+    "currently_learning": [
+        "Advanced Django",
+        "REST API Development",
+        "Database Design",
+        "Backend Architecture",
+        "Testing"
+    ],
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 25 mins       ████████████████░░░░░░░░░   65.12 % 
-Text                     1 hr                ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-.env file                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 8 mins        █████████████████████░░░░   84.50 % 
-WebStorm                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-
-💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+    "goal": "Become a professional Backend Developer"
+}
 ```
 
-🤖 **AI Coding This Week** 
+---
 
-```text
-⏱ AI Coding Time: 3 hrs 29 mins (94.18%)
+### 🛠️ Technologies & Tools
 
-✍️ 4,918 lines written by AI, 0 lines written by hand (100.0% AI-written)
+#### 🐍 Backend
 
-🔤 902,231 Input Tokens, 250,975 Output Tokens
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
 
-💵 $38.79 Estimated AI Cost This Week
+#### 🗄️ Database
 
-🧠 5 AI Sessions, 20 AI Prompts
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
 
-Fable                    4,329 lines         ██████████████████████░░░   87.93 % 
-Sonnet                   594 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+#### 🌐 Web & APIs
 
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,326 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-**I Mostly Code in JavaScript** 
+#### 🔧 Tools
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
+---
 
+### 🚀 What I'm Working On
 
+* 🔨 Building backend applications with **Python & Django**
+* 🔌 Developing and consuming **REST APIs**
+* 🗄️ Learning advanced **database design and SQL**
+* 🔐 Working with **authentication and authorization**
+* 🧪 Improving backend testing practices
+* 🧹 Writing clean, readable and maintainable code
+* 📚 Continuously improving my backend development skills
 
- Last Updated on 19/09/2026 04:49:55 UTC
-<!--END_SECTION:waka-->
+---
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+### 📂 Featured Projects
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+#### 🐍 Python Backend Projects
+
+Projects focused on Python programming, problem solving and backend logic.
+
+#### 🌐 Django Web Applications
+
+Web applications built with Django, focusing on backend architecture, authentication, databases and APIs.
+
+#### 🔌 REST API Projects
+
+Backend APIs designed with clean architecture and practical API development principles.
+
+> 🚧 More projects are currently being built and will be added here.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osman-75-bot&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-75-bot&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osman-75-bot&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osman-75-bot&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:osman7abubakr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-osman7abubakr%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/osman-abubakr-16297b2a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Osman%20Abubakr-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/osman-75-bot">
+    <img src="https://img.shields.io/badge/GitHub-osman--75--bot-black?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://osman-abubakr-pro.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-46a2f1?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 💡 My Development Philosophy
+
+> "Write clean code. Solve real problems. Keep learning."
+
+I'm passionate about backend development and continuously working on improving my programming, system design and problem-solving skills.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osman-75-bot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and follow my journey as a Backend Developer.
+</p>
