@@ -1,214 +1,286 @@
-<h2>
-  👋 Hello, I'm Osman Abubakr!
-</h2>
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/6068c1a7-0df1-49b5-81ef-17e44593485d" />
+# 👋 Hello, I'm **Osman Abubakr!**
+
+### 💻 Backend Developer | 🐍 Python & Django Developer
 
 <p>
   <em>
-    Backend Developer | Python & Django Developer
+    I build reliable, scalable and maintainable backend applications
+    using Python, Django and REST APIs.
   </em>
 </p>
 
 <p>
-  I'm a Backend Developer focused on building reliable, scalable and maintainable web applications using Python and Django.
-  I enjoy solving problems, designing APIs, working with databases, and turning ideas into functional backend systems.
-</p>
-
-<p>
   <a href="https://github.com/osman-75-bot">
-    <img src="https://img.shields.io/github/followers/osman-75-bot?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/osman-75-bot?label=Follow&style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/osman-abubakr-16297b2a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Osman%20Abubakr-blue?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://osman-abubakr-pro.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Website-46a2f1?style=flat-square&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-```python
-osman = {
-    "name": "Osman Abubakr",
-    "role": "Backend Developer",
-    "education": "Bachelor of Computer Science",
-    "university": "Sudan Open University",
-
-    "focus": [
-        "Backend Development",
-        "Web Applications",
-        "REST APIs",
-        "Database Design",
-        "Problem Solving"
-    ],
-
-    "languages": [
-        "Python",
-        "HTML",
-        "CSS"
-    ],
-
-    "backend": [
-        "Django",
-        "Django REST Framework",
-        "Flask",
-        "REST APIs"
-    ],
-
-    "database": [
-        "SQL",
-        "PostgreSQL"
-    ],
-
-    "tools": [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    "currently_learning": [
-        "Advanced Django",
-        "REST API Development",
-        "Database Design",
-        "Backend Architecture",
-        "Testing"
-    ],
-
-    "goal": "Become a professional Backend Developer"
-}
-```
-
----
-
-### 🛠️ Technologies & Tools
-
-#### 🐍 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</p>
-
-#### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
-</p>
-
-#### 🌐 Web & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-#### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
-
----
-
-### 🚀 What I'm Working On
-
-* 🔨 Building backend applications with **Python & Django**
-* 🔌 Developing and consuming **REST APIs**
-* 🗄️ Learning advanced **database design and SQL**
-* 🔐 Working with **authentication and authorization**
-* 🧪 Improving backend testing practices
-* 🧹 Writing clean, readable and maintainable code
-* 📚 Continuously improving my backend development skills
-
----
-
-### 📂 Featured Projects
-
-#### 🐍 Python Backend Projects
-
-Projects focused on Python programming, problem solving and backend logic.
-
-#### 🌐 Django Web Applications
-
-Web applications built with Django, focusing on backend architecture, authentication, databases and APIs.
-
-#### 🔌 REST API Projects
-
-Backend APIs designed with clean architecture and practical API development principles.
-
-> 🚧 More projects are currently being built and will be added here.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osman-75-bot&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-75-bot&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=osman-75-bot&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osman-75-bot&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p>
   <a href="mailto:osman7abubakr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-osman7abubakr%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/osman-abubakr-16297b2a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Osman%20Abubakr-blue?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/osman-75-bot">
-    <img src="https://img.shields.io/badge/GitHub-osman--75--bot-black?style=flat-square&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://osman-abubakr-pro.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-46a2f1?style=flat-square&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+</div>
 
 ---
 
-### 💡 My Development Philosophy
+## 👨‍💻 About Me
 
-> "Write clean code. Solve real problems. Keep learning."
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I'm passionate about backend development and continuously working on improving my programming, system design and problem-solving skills.
+### 👤 Profile
+
+* **Name:** Osman Abubakr
+* **Role:** Backend Developer
+* **Education:** Bachelor of Computer Science
+* **University:** Sudan Open University
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎯 Focus
+
+* Backend Development
+* Web Applications
+* REST APIs
+* Database Design
+* Problem Solving
+* Clean Code
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📚 Currently Learning
+
+* Advanced Django
+* Django REST Framework
+* REST API Development
+* Database Design
+* Backend Architecture
+* Testing
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osman-75-bot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+## 🛠️ Technologies & Tools
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### 🐍 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and follow my journey as a Backend Developer.
+**Python**
+**Django**
+**Django REST Framework**
+**Flask**
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 </p>
+
+**PostgreSQL**
+**SQL**
+**SQLite**
+**Database Design**
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌐 Web & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**REST APIs**
+**API Integration**
+**HTML5**
+**CSS3**
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Git**
+**GitHub**
+**VS Code**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td>
+
+✅ Building backend applications with **Python & Django**
+
+</td>
+<td>
+
+🔌 Developing **REST APIs**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🗄️ Working with **databases & SQL**
+
+</td>
+<td>
+
+🔐 Learning **authentication & authorization**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧪 Improving **backend testing**
+
+</td>
+<td>
+
+🧹 Writing **clean & maintainable code**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+### 🐍 Python Projects
+
+Building practical Python applications to strengthen programming fundamentals, problem solving and backend logic.
+
+### 🌐 Django Applications
+
+Developing web applications using Django with databases, authentication, business logic and structured backend architecture.
+
+### 🔌 REST API Projects
+
+Creating RESTful APIs with Django REST Framework and focusing on clean endpoints, serializers, authentication and database integration.
+
+> 🚧 More projects are currently being developed and will be added here.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=osman-75-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-75-bot&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=osman-75-bot&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osman-75-bot&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+> **"Write clean code. Solve real problems. Keep learning."**
+
+</div>
+
+I’m passionate about backend development and continuously improving my skills in **Python, Django, REST APIs, databases, software architecture and problem solving.**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/osman-75-bot">
+<img src="https://img.shields.io/badge/GitHub-osman--75--bot-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/osman-abubakr-16297b2a7">
+<img src="https://img.shields.io/badge/LinkedIn-Osman%20Abubakr-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://osman-abubakr-pro.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-osman--abubakr-0A66C2?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="mailto:osman7abubakr@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Python • Django • REST APIs • Databases • Backend Development
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
+
