@@ -1,6 +1,6 @@
 <div align="center">
 
-"<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/6068c1a7-0df1-49b5-81ef-17e44593485d" />
+<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/6068c1a7-0df1-49b5-81ef-17e44593485d" />
 # 👋 Hello, I'm **Osman Abubakr!**
 
 ### 💻 Backend Developer | 🐍 Python & Django Developer
